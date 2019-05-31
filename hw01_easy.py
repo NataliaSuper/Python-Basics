@@ -44,5 +44,4 @@ if age >= allowable_age:
 elif age < allowable_age:
        print("Извините, пользование данным ресурсом только с 18 лет")
 else: int(input("Укажите свой возраст: "))
-       
 
